@@ -1,0 +1,9 @@
+.second {
+    padding: 20px;
+    margin: 5%;
+    border: solid rgb(226, 71, 60);
+    text-align: center;
+  }
+  div {
+    border: dotted rgb(27, 27, 25);
+  }
